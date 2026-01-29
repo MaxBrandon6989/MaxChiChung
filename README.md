@@ -1,7 +1,7 @@
 # MaxChiChung
 Information Systems Student at UTAR | Aspiring Systems Auditor &amp; Cybersecurity Enthusiast | Focus on XAI in FinTech.
 
-About Me
+## About Me
 I am a dedicated Information Systems (Digital Economy Technology) student at UTAR, currently in my second year. As an INTJ, I thrive on logical problem-solving, structured environments, and continuous self-improvement. My goal is to bridge the gap between complex IT infrastructure and business compliance.
 
 Currently focused on: Enhancing my knowledge in IT Control & Audit and Cybersecurity.
