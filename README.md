@@ -12,11 +12,11 @@ Learning Journey: Actively studying advanced Python for data analytics and explo
 
 Personal Philosophy: "Progress may be steady, but consistency is the key to transformation."
 
-Category,Tools & Technologies
+Category,Tools & Technologies  
 Programming,"Python (Pandas, Scikit-learn, Seaborn, PyTorch), C# (UWP), SQL (Oracle, MS Access), PHP (Laravel)"\
 Security & Audit,"IT Control & Audit Frameworks, Network Security, Risk Assessment" \
 FinTech,"Machine Learning (XAI), Counterfactual Analysis, Business Analytics" \
-Soft Skills,"Analytical Thinking, Professional Documentation, Resilience" \
+Soft Skills,"Analytical Thinking, Professional Documentation, Resilience"  
 
 🎓 Academic & Professional Highlights
 
